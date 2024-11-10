@@ -1,3 +1,4 @@
 # rishi-demo
-this is my first github repository
-aithir=rishi
+this is my first github repository.
+<br>
+author=rishi
